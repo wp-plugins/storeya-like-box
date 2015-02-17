@@ -61,7 +61,6 @@ To learn more about StoreYa and how it works visit [our website]( http://www.sto
 5. Example 5
 
 
-
 == Resources ==
 
 [StoreYa support](https://storeya.zendesk.com/home) 
