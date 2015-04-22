@@ -2,7 +2,7 @@
 Contributors: StoreYa
 Tags: Facebook, facebook badge, facebook integration, facebook like box, Facebook like widget, facebook plugin, facebook share, facebook sidebar, facebook style, facebook wall, Facebook Widget, Like, like box, page, plugin, sharebar, sidebar, social, Social Plugins, social profiles, social share, social sidebar, wordpress like, seo, meta, Facebook like box widget, facebook like,  facebook like button, facebook button, facebook facepile, like box facebook, like box widget, facebook likebox, facebook like box shortcode, likebox, wordpress facebook like box, facebook like box in PopUp, facebook likebox widget, nice facebook like box, custom facebook likebox, rt facebook like box, fb like box,Marketing tools, Social commerce, storeya, fans, add fans, plugin, sharing, network, facebook likes, Like box
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -66,6 +66,35 @@ To learn more about StoreYa and how it works visit [our website]( http://www.sto
 [StoreYa support](https://storeya.zendesk.com/home) 
 
 [Like Box website](http://www.storeya.com/public/likebox)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
