@@ -91,9 +91,9 @@ function slb_plugin_actions($links, $file)
 
     function slb_add_settings_page()
     {
-        function slb_settings_page()
-        {
-            global $slb_domain, $plugurldir, $storeya_options;
+       global $slb_domain, $plugurldir, $storeya_options;       
+	   function slb_settings_page()
+        {            
 ?>
       <div class="wrap">
         <?php
