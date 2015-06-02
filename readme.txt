@@ -65,4 +65,4 @@ To learn more about StoreYa and how it works visit [our website]( http://www.sto
 
 [StoreYa support](https://storeya.zendesk.com/home) 
 
-[Like Box website](http://www.storeya.com/public/likebox)  
+[Like Box website](http://www.storeya.com/public/likebox)    
