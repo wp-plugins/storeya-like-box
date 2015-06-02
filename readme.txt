@@ -14,12 +14,9 @@ Like Box plugin increasing your Facebook Community from day one!
 **Exposed to 1,000,000 customers daily, the Like Box results speak for themselves:**
 
 - Grow your Facebook community easily 
-
-– Drive more traffic from Facebook to your web store daily 
-
-– Boost your sales by making random visitors into fans, growing your community and promoting your offers on Facebook 
-
-– Create an increased "Word-of-Mouth" effect. 
+- Drive more traffic from Facebook to your web store daily 
+- Boost your sales by making random visitors into fans, growing your community and promoting your offers on Facebook 
+- Create an increased "Word-of-Mouth" effect. 
 
 The Like Box allows you to promote your social marketing by creating a customized "like box" and converting customers into engaged fans. 
 You can select whether to display thumbnails of your customers' friends who have already become fans of your business, or show the latest posts shared on your Facebook fan page.
@@ -66,71 +63,3 @@ To learn more about StoreYa and how it works visit [our website]( http://www.sto
 [StoreYa support](https://storeya.zendesk.com/home) 
 
 [Like Box website](http://www.storeya.com/public/likebox)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
