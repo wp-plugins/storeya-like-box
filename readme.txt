@@ -50,16 +50,13 @@ To learn more about StoreYa and how it works visit [our website]( http://www.sto
 
 == Screenshots ==
 
-1. Example 1
+1. Like Box Settings
 
-2. Example 2
+2. Example 1
 
-3. Example 3
+3. Example 2
 
-4. Like Box Settings
-
-5. Example 5
-
+4. Example 3
 
 == Resources ==
 
